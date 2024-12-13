@@ -21,7 +21,7 @@ footer {
 
 header {
     position: fixed;
-    height: 33px;
+    height: 5%;
     z-index: 2;
 }
 
@@ -36,7 +36,7 @@ section {
 }
 
 h1 {
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 form {
@@ -48,7 +48,7 @@ form {
 }
 
 header ul {
-    padding-right: 10px;
+    height: 100%;
 }
 
 header li {
@@ -64,7 +64,7 @@ li a {
     text-decoration: none;
     color: white;
     padding-left: 10px;
-    line-height: 2;
+    line-height: 2.7;
 }
 
 footer p {
@@ -76,11 +76,12 @@ footer p {
 }
 
 .mypage {
+    height: 80%;
     padding-bottom: 20px;
 }
 
 .mypage p {
-    padding-top: 15px;
+    padding: 40px 0;
 }
 
 .contact {
